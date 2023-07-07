@@ -1,0 +1,14 @@
+## Copyright (C) 2020-2023 Aditya Shakya <adi1090x@gmail.com>
+
+Net/ThemeName "Arc-Dark"
+Net/IconThemeName "Papirus-Dark"
+Net/Font "Hack Nerd Font Mono"
+Gtk/CursorThemeName "Qogirr"
+Gtk/Font "Hack Nerd Font Mono"
+Net/EnableEventSounds "0"
+Net/EnableInputFeedbackSounds "0"
+Xft/DPI "-1"
+Xft/Hinting 1
+Xft/HintStyle "hintslight"
+Xft/Antialias 1
+Xft/RGBA "none"
