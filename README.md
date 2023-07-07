@@ -10,7 +10,7 @@ mv zshrc .zshrc && mv .zshrc ~ && sudo rm -rf /etc/profile && sudo mv profile /e
 
 - Delete all other files and folders in `~/.config/bspwm`.
 
-- This next step does not include `polybar` folder:
+- This next step does not include `default` folder:
 
 ```bash
 
@@ -22,7 +22,7 @@ mv * ~/.config/bspwm && sudo rm -rf ~/.config/bspwm/themes/default
 
 ```bash
 
-mv polybar ~/.config/bspwm/themes
+mv default ~/.config/bspwm/themes
 
 ```
 
